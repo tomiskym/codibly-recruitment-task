@@ -1,7 +1,7 @@
 {
     "email": "tmalecki93@gmail.com",
-    "password": "testtest1",
+    "password": "testtestt1",
     "incorrectEmail": "tmalecki93",
-    "incorrectPasswordMissingNumber": "testtest",
+    "incorrectPasswordMissingNumber": "testtestt",
     "incorrectPasswordTooShort": "test"
   }
